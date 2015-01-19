@@ -3,7 +3,7 @@
 package boletin15;
 
 /**
- *Clase main de un proyecto de una seleccion de futbol
+ *Clase main de un proyecto de una seleccion de futbol,modificacionCOD
  * @author yperezmartinez
  * version 1.0
  */
