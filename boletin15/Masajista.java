@@ -5,7 +5,7 @@ package boletin15;
 /**
  * Subclase masajista de una seleccion de futbol
  * @author yperezmartinez
- * version 1.0
+ * @version 1.0
  */
 
 public class Masajista extends Seleccion {
